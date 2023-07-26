@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨ Crafting my pure C webserver;
-- ✨ Updating "my-log-parser";
+- ✨ Handcrafting my pure C webserver;
+- ✨ Making a devops CICD pipeline for my webserver;
 - ✨ Learning Ruby;
 
 ##### BIO
@@ -18,4 +18,3 @@
 - 👨‍💻 I also code backend applications using **C/C++**, **Java/Kotlin** or **Javascript** 
 - 📫 Reach me on Whatsapp: 📱 +55 34 98848-6421
 - 🔗 Reach me on LinkedIn: [joaofranciscopanta](https://www.linkedin.com/in/joaofranciscopantaleao/)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
